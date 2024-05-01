@@ -1,8 +1,8 @@
-# [Example Landing Page](https://maksym-nemera.github.io/<your-repository>/)
+# [Example Landing Page](https://maksym-nemera.github.io/DI_Waxom/)
 
 This repository contains the source code and assets for the **Example Landing Page** project developed on **[Figma](source-figma-template)** design.
 
-You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/<your-repository>/)
+You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/DI_Waxom/)
 
 ## Navigation:
 
